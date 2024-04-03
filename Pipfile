@@ -11,3 +11,6 @@ gunicorn = "*"
 
 [requires]
 python_version = "3.11"
+
+[requires]
+python_version = "3.9"
